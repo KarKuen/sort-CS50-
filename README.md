@@ -1,7 +1,7 @@
 # sort (CS50)
 
 ##### CS50 Week 3 Labs
-* Sorting numbers with 
+* Comparing sorting methods
   * Selection Sort
   * Bubble Sort
   * Merge Sort
